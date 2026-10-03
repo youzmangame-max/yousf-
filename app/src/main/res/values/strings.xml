@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Nagham Music</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_explore">استكشاف</string>
+    <string name="nav_search">البحث</string>
+    <string name="nav_library">المكتبة</string>
+    
+    <string name="search_placeholder">ابحث عن أغاني، فنانين، ألبومات...</string>
+    <string name="quick_picks">مقترحة لك</string>
+    <string name="recently_played">تم الاستماع إليها مؤخراً</string>
+    <string name="featured_artists">فنانون مقترحون</string>
+    <string name="featured_albums">ألبومات مميزة</string>
+    <string name="top_charts">الأكثر استماعاً</string>
+    <string name="my_playlists">قوائم التشغيل الخاصة بي</string>
+    <string name="liked_songs">الأغاني المفضلة</string>
+    <string name="followed_artists">الفنانين المتابعين</string>
+    <string name="saved_albums">الألبومات المحفوظة</string>
+    <string name="history">سجل الاستماع</string>
+    
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+    <string name="add_to_playlist">إضافة إلى قائمة تشغيل</string>
+    <string name="create_playlist">إنشاء قائمة تشغيل جديدة</string>
+    <string name="playlist_name">اسم القائمة</string>
+    <string name="playlist_description">الوصف (اختياري)</string>
+    <string name="create">إنشاء</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="added_to_favorites">تمت الإضافة للمفضلة</string>
+    <string name="removed_from_favorites">تمت الإزالة من المفضلة</string>
+    <string name="up_next">التالي في قائمة الانتظار</string>
+    <string name="similar_songs">أغانٍ مشابهة</string>
+    <string name="shuffle">خلط عشوائي</string>
+    <string name="repeat">تكرار</string>
+    <string name="empty_library">مكتبتك فارغة حالياً</string>
+    <string name="start_exploring">ابدأ باستكشاف الموسيقى وأضف أغانيك المفضلة</string>
+</resources>
